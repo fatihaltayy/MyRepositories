@@ -1,0 +1,70 @@
+body{
+    font-family: 'Teko', sans-serif;
+    background-color:rgb(245, 235, 235)    
+}
+
+.h1baslık{
+    font: size 80px;
+    color: yellow;
+    padding: 1.5em;
+    background-color:rgb(34, 40, 49);
+    text-transform: uppercase;    
+}
+
+.h2baslık{
+    font: size 60px;
+    color: yellow;
+    padding: 1.5em;
+    background-color:rgb(34, 40, 49);
+    text-transform: uppercase; 
+}
+
+.spanstyle{
+    padding: 4.5em;
+    color:yellow;  
+}
+
+.link-a {
+    color: yellow;
+    /* text-decoration:none; */
+    padding: 3.5em;
+    font-size: 30px;
+}
+
+.link-b{    
+    color: yellow;
+    /* text-decoration:none; */
+    background-color:rgb(34, 40, 49);
+    font-size:35px;
+
+}
+
+.fs-40px{
+    font: size 40px;
+}
+.fs-20px{
+    font: size 40px;
+}
+
+.p-inline{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 25px;
+}
+hr{
+    size:100px;
+    width:10000px;
+    height: 10px;
+    background-color:rgb(57, 62, 70);
+}
+.center{
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: green;
+}
+
+.img-size{
+    width: 500px;
+    height: 700px;
+}
