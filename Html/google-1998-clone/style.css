@@ -1,0 +1,26 @@
+.body {
+    display: block;
+    margin: 8px;
+    background-color: rgb(255, 255, 255);
+}
+.form {
+    display: block;
+    margin-top: 0em;
+    margin-block-end: 1em;
+}
+
+.pic {
+    Text-align: center;
+
+}
+.search-bar {
+    Text-align: center;
+    padding: 2px;
+    background-color:rgb(201, 194, 194);
+    border-spacing: 2px;
+
+}
+.div-flex{
+    display: flex;
+    justify-content: space-between;
+}
